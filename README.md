@@ -1,2 +1,3 @@
 # ogrencibilgisistemi
  
+read me 
